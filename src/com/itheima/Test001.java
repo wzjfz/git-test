@@ -5,6 +5,7 @@ public class Test001 {
         System.out.println("第一次");
         System.out.println("第二次");
         System.out.println("clone第一次修改");
+        System.out.println("clone第二次修改");
         System.out.println("clone第三次修改");
     }
 }
