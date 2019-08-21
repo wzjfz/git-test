@@ -7,5 +7,6 @@ public class Test001 {
         System.out.println("clone第一次修改");
         System.out.println("clone第二次修改");
         System.out.println("clone第三次修改");
+        System.out.println("git-test第4次修改");
     }
 }
